@@ -68,8 +68,6 @@ switch ($opcion){
     default:
         header('Location:index.php');
         exit();
-
-
 }
 ?>
 
